@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SadewliMadushika">
-    <img src="https://img.shields.io/badge/GitHub-SadewliMadushika-181717?style=flat-square&logo=github" />
+  <a href="https://github.com/sadewli">
+    <img src="https://img.shields.io/badge/GitHub-sadewli-181717?style=flat-square&logo=github" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SadewliMadushika&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sadewli&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
@@ -63,8 +63,12 @@ I'm a Full Stack Software Engineer with hands-on experience building scalable, m
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadewliMadushika&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadewliMadushika&layout=compact&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sadewli&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadewli&layout=compact&theme=default&hide_border=true&cache_seconds=1800" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sadewli&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -74,7 +78,7 @@ I'm a Full Stack Software Engineer with hands-on experience building scalable, m
 If you'd like to collaborate, have a project idea, or just want to talk tech — feel free to reach out!
 
 <p align="left">
-  <a href="https://github.com/SadewliMadushika">
+  <a href="https://github.com/sadewli">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" />
   </a>
   <!-- Add LinkedIn / email / portfolio when ready -->
