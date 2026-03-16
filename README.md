@@ -81,7 +81,9 @@ If you'd like to collaborate, have a project idea, or just want to talk tech —
   <a href="https://github.com/sadewli">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" />
   </a>
-  <!-- Add LinkedIn / email / portfolio when ready -->
+  <a href="https://www.linkedin.com/in/sadewli-madushika-56895831a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
