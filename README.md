@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Sadewli Madushika
 
-<!--
-**sadewli/sadewli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Software Engineer  
+🚀 Passionate about building web applications and learning new technologies.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Skills
+- PHP
+- Laravel
+- CodeIgniter
+- MySQL
+- Java
+- C#
+- HTML & CSS
+- Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+Software Engineer Intern at Erav Technologies (Pvt) Ltd
+
+## 🌱 Currently Learning
+- Advanced Laravel
+- AI Development
+- Modern Web Technologies
